@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=sql5047.site4now.net;Initial Catalog=DB_A4E088_freshfoodMarket;Integrated Security=False;Persist Security Info=False;User ID=DB_A4E088_freshfoodMarket_admin;Password=D@niel1017192023;",
+  "RawDataSettings": {}
+}
